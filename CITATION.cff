@@ -39,3 +39,11 @@ license: CC-BY-4.0
 date-released: '2026-06-19'
 url: https://ismybrandinai.com/do-ai-engines-cite-the-same-sources
 repository-code: https://github.com/minelgunesoglu-code/cross-engine-citation-study
+doi: "10.5281/zenodo.23427370"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23427370"
+    description: Concept DOI, resolves to the latest version
+  - type: doi
+    value: "10.5281/zenodo.23427371"
+    description: Version 1.0.0

@@ -6,7 +6,7 @@
 |---|---|
 | **Article** | https://ismybrandinai.com/do-ai-engines-cite-the-same-sources |
 | **Repository** | https://github.com/minelgunesoglu-code/cross-engine-citation-study |
-| **Archive** | DOI: to be added after the Zenodo release |
+| **Archive** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23427370.svg)](https://doi.org/10.5281/zenodo.23427370) concept DOI, resolves to the latest version |
 | **Collected** | Round one 19 June 2026 (sources only); round two 6 to 7 August 2026 (sources and brands). By hand, one run per engine-question pair |
 | **Published** | Round one 19 June 2026; round two 9 August 2026 |
 | **Engines** | ChatGPT (free tier, web search on; temporary chat in round two), Perplexity (default web search), Gemini (Flash model in round one), Google AI Overview as shown in standard search results |
