@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: >-
+  Cross-Engine Citation Study, rounds one and two: sources and brands cited by
+  ChatGPT, Perplexity, Gemini and Google's AI Overview
+message: If you use this dataset, please cite it.
+type: dataset
+authors:
+  - given-names: Minel
+    family-names: Gunesoglu
+    affiliation: Is My Brand in AI
+    email: minel@ismybrandinai.com
+    orcid: 'https://orcid.org/0009-0009-4823-6016'
+abstract: >-
+  Twelve B2B SaaS buyer questions were put by hand to ChatGPT, Perplexity,
+  Gemini and Google's AI Overview, one run per engine-question pair, and every
+  source each engine displayed was recorded in order. Round one, 19 June 2026,
+  recorded sources only over 27 runs. Round two, collected on 6 to 7 August
+  2026 and published on 9 August 2026, recorded
+  sources with a type code and the brands each answer recommended, in order,
+  over 48 runs covering every question on every engine. On the seven open
+  recommendation and alternatives questions of round two, the four engines
+  agreed on 32 per cent of the brands they recommended and 1 per cent of the
+  sources they cited (Jaccard similarity). Round two logged 322 citations of 193
+  distinct sources, 78.2 per cent of them cited by one engine only. Of the 80
+  distinct sources Perplexity cited in June, 42 were still cited in August. The
+  per-run rows of both rounds and a script that recounts every published figure
+  are included.
+keywords:
+  - AI search
+  - citation
+  - generative engine optimization
+  - ChatGPT
+  - Perplexity
+  - Gemini
+  - Google AI Overviews
+  - brand recommendation
+  - B2B SaaS
+license: CC-BY-4.0
+date-released: '2026-06-19'
+url: https://ismybrandinai.com/do-ai-engines-cite-the-same-sources
+repository-code: https://github.com/minelgunesoglu-code/cross-engine-citation-study

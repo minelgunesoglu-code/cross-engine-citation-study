@@ -1,0 +1,281 @@
+{
+  "study": "Cross-Engine Citation Study",
+  "round": "June 2026 (round 1)",
+  "collected": "2026-06-19",
+  "license": "CC BY 4.0",
+  "attribution": "Is My Brand in AI (ismybrandinai.com)",
+  "note": "Sources are recorded as the engine displayed them. Some are domains, some are product or publication names the engine showed without a URL; both are kept as written.",
+  "limitation": "Collected by hand. Several Perplexity source panels were truncated behind a \"show more\" control that could not be fully expanded, so the recorded list is what was visible at the time. Perplexity was run on all twelve questions; the other three engines on fewer.",
+  "rows": [
+    {
+      "question_id": "1",
+      "question": "best CRM for startups",
+      "intent": "recommendation",
+      "engine": "ChatGPT",
+      "run_date": "2026-06-19",
+      "sources": "techradar.com | tekpon.com | toolcheckr.com | Best CRM Reviews | saasprobe.com | Better Launch | reddit.com",
+      "source_count": 7,
+      "collection_note": "\"Best CRM Reviews\"/\"Better Launch\" = named in the panel; domain not verified"
+    },
+    {
+      "question_id": "1",
+      "question": "best CRM for startups",
+      "intent": "recommendation",
+      "engine": "Gemini",
+      "run_date": "2026-06-19",
+      "sources": "UpliftGTM | Lightfield | Dalil AI | ZoFlowX",
+      "source_count": 4,
+      "collection_note": "+N hidden; **ALL unknown/niche**, none mainstream"
+    },
+    {
+      "question_id": "1",
+      "question": "best CRM for startups",
+      "intent": "recommendation",
+      "engine": "Google AI Overview",
+      "run_date": "2026-06-19",
+      "sources": "reddit.com | salesforce.com | techradar.com | zoho.com | monday.com | quickbase.com | seedtable.com | podium.com | baserow.io",
+      "source_count": 9,
+      "collection_note": ""
+    },
+    {
+      "question_id": "1",
+      "question": "best CRM for startups",
+      "intent": "recommendation",
+      "engine": "Perplexity",
+      "run_date": "2026-06-19",
+      "sources": "crm.org | tech.co | zendesk.com | techradar.com | hubspot.com | digitalocean.com | salesflare.com | blog.hubspot.com",
+      "source_count": 8,
+      "collection_note": "+ zendesk regional duplicates; \"more\" hidden"
+    },
+    {
+      "question_id": "2",
+      "question": "best project management software for small teams",
+      "intent": "recommendation",
+      "engine": "ChatGPT",
+      "run_date": "2026-06-19",
+      "sources": "TaskPicked | PickrTech Insights | TechRadar | Prodify Flow | Nest Digital Studio | pmworld360.com | apmic.org",
+      "source_count": 7,
+      "collection_note": "mostly niche/unknown blogs"
+    },
+    {
+      "question_id": "2",
+      "question": "best project management software for small teams",
+      "intent": "recommendation",
+      "engine": "Gemini",
+      "run_date": "2026-06-19",
+      "sources": "Fluid PPM | Aha! software\" (aha.io)",
+      "source_count": 2,
+      "collection_note": "only 2 sources; Gemini cites sparsely"
+    },
+    {
+      "question_id": "2",
+      "question": "best project management software for small teams",
+      "intent": "recommendation",
+      "engine": "Perplexity",
+      "run_date": "2026-06-19",
+      "sources": "niftypm.com | project-management.com | zapier.com | plaky.com | technologyadvice.com | storychief.io | cloudwards.net | larksuite.com | thedigitalprojectmanager.com | pcmag.com",
+      "source_count": 10,
+      "collection_note": "+ more hidden"
+    },
+    {
+      "question_id": "3",
+      "question": "best email marketing platform",
+      "intent": "recommendation",
+      "engine": "Perplexity",
+      "run_date": "2026-06-19",
+      "sources": "emailvendorselection.com | sender.net | cybernews.com | semrush.com | mailtrap.io | techradar.com | pipeline.zoominfo.com | brevo.com | blog.hubspot.com",
+      "source_count": 9,
+      "collection_note": "+ more hidden"
+    },
+    {
+      "question_id": "4",
+      "question": "best AI writing tools",
+      "intent": "recommendation",
+      "engine": "Perplexity",
+      "run_date": "2026-06-19",
+      "sources": "visme.co | wpastra.com | clickup.com | eweek.com | writesonic.com | databox.com | jotform.com | learn.g2.com | kontent.ai | forbes.com",
+      "source_count": 10,
+      "collection_note": "+ more hidden"
+    },
+    {
+      "question_id": "5",
+      "question": "HubSpot vs Salesforce",
+      "intent": "comparison",
+      "engine": "ChatGPT",
+      "run_date": "2026-06-19",
+      "sources": "forbes.com | Ralivi | reddit.com | Sasanova | techradar.com",
+      "source_count": 5,
+      "collection_note": "web search on; +N in the panel; Ralivi/Sasanova niche"
+    },
+    {
+      "question_id": "5",
+      "question": "HubSpot vs Salesforce",
+      "intent": "comparison",
+      "engine": "Gemini",
+      "run_date": "2026-06-19",
+      "sources": "community.hubspot.com | zapier.com",
+      "source_count": 2,
+      "collection_note": "2 sources"
+    },
+    {
+      "question_id": "5",
+      "question": "HubSpot vs Salesforce",
+      "intent": "comparison",
+      "engine": "Google AI Overview",
+      "run_date": "2026-06-19",
+      "sources": "Zapier +3\" + HubSpot",
+      "source_count": 1,
+      "collection_note": ""
+    },
+    {
+      "question_id": "5",
+      "question": "HubSpot vs Salesforce",
+      "intent": "comparison",
+      "engine": "Perplexity",
+      "run_date": "2026-06-19",
+      "sources": "hubspot.com | youtube.com | zapier.com | reddit.com | crmswitch.com | forbes.com | monday.com | avoma.com",
+      "source_count": 8,
+      "collection_note": "youtube and hubspot twice each; **first Reddit + YouTube**"
+    },
+    {
+      "question_id": "6",
+      "question": "Notion vs Asana",
+      "intent": "comparison",
+      "engine": "Perplexity",
+      "run_date": "2026-06-19",
+      "sources": "youtube.com | omtera.com | thedigitalprojectmanager.com | plaky.com | productivetemply.com | monday.com | appvizer.com | thebusinessdive.com",
+      "source_count": 8,
+      "collection_note": "**youtube.com ×3**, one in Japanese; no Reddit"
+    },
+    {
+      "question_id": "7",
+      "question": "Mailchimp vs Klaviyo",
+      "intent": "comparison",
+      "engine": "ChatGPT",
+      "run_date": "2026-06-19",
+      "sources": "techradar.com | forbes.com | reddit.com | technologyadvice.com",
+      "source_count": 4,
+      "collection_note": "web search on; +N; all major publishers"
+    },
+    {
+      "question_id": "7",
+      "question": "Mailchimp vs Klaviyo",
+      "intent": "comparison",
+      "engine": "Gemini",
+      "run_date": "2026-06-19",
+      "sources": "RichClicks",
+      "source_count": 1,
+      "collection_note": "ONLY 1 source; niche"
+    },
+    {
+      "question_id": "7",
+      "question": "Mailchimp vs Klaviyo",
+      "intent": "comparison",
+      "engine": "Perplexity",
+      "run_date": "2026-06-19",
+      "sources": "klaviyo.com | moosend.com | emailtooltester.com | zapier.com | youtube.com | sendpulse.com | mailchimp.com | technologyadvice.com | enchantagency.com | shopify.com",
+      "source_count": 10,
+      "collection_note": "**vendor self-citation:** klaviyo.com + mailchimp.com"
+    },
+    {
+      "question_id": "8",
+      "question": "how to choose a CRM",
+      "intent": "how-to",
+      "engine": "Perplexity",
+      "run_date": "2026-06-19",
+      "sources": "sonary.com | community.hubspot.com | uschamber.com | creatio.com | zendesk.com | superoffice.co.uk | youtube.com | salesforce.com | pcmag.com | nutshell.com",
+      "source_count": 10,
+      "collection_note": "vendor-heavy + the community.hubspot.com forum"
+    },
+    {
+      "question_id": "9",
+      "question": "how to reduce customer churn",
+      "intent": "how-to",
+      "engine": "ChatGPT",
+      "run_date": "2026-06-19",
+      "sources": "RetentionCheck | Deeto | arxiv.org | superoffice.com | reddit.com | Churn Buster | Guideflow",
+      "source_count": 7,
+      "collection_note": "niche retention blogs + **arXiv academic**; web search on"
+    },
+    {
+      "question_id": "9",
+      "question": "how to reduce customer churn",
+      "intent": "how-to",
+      "engine": "Gemini",
+      "run_date": "2026-06-19",
+      "sources": "",
+      "source_count": "0",
+      "collection_note": "answered entirely from training data; no sources shown"
+    },
+    {
+      "question_id": "9",
+      "question": "how to reduce customer churn",
+      "intent": "how-to",
+      "engine": "Google AI Overview",
+      "run_date": "2026-06-19",
+      "sources": "SurveyMonkey +2\" (+ probably SuperOffice)",
+      "source_count": 1,
+      "collection_note": ""
+    },
+    {
+      "question_id": "9",
+      "question": "how to reduce customer churn",
+      "intent": "how-to",
+      "engine": "Perplexity",
+      "run_date": "2026-06-19",
+      "sources": "stripe.com | nextiva.com | optimove.com | blog.hubspot.com | contentsquare.com | digitalocean.com | userpilot.com | recurly.com | chargebee.com | ttec.com",
+      "source_count": 10,
+      "collection_note": "all SaaS company blogs; NO Reddit or YouTube"
+    },
+    {
+      "question_id": "10",
+      "question": "Salesforce alternatives",
+      "intent": "alternative",
+      "engine": "Perplexity",
+      "run_date": "2026-06-19",
+      "sources": "salesforce.com | reddit.com | creatio.com | teamgate.com | forbes.com | persistiq.com | zendesk.com | gestisoft.com | zeeg.me | jotform.com",
+      "source_count": 10,
+      "collection_note": "**Reddit** r/CRM + salesforce.com's own page + small vendor listicles"
+    },
+    {
+      "question_id": "11",
+      "question": "cheaper alternatives to HubSpot",
+      "intent": "alternative",
+      "engine": "ChatGPT",
+      "run_date": "2026-06-19",
+      "sources": "StackFYI | Automation Atlas | growthtechspotlight.com | chatim.app | Semstage | techradar.com | reddit.com",
+      "source_count": 7,
+      "collection_note": "mostly niche + TechRadar/Reddit; web search on"
+    },
+    {
+      "question_id": "11",
+      "question": "cheaper alternatives to HubSpot",
+      "intent": "alternative",
+      "engine": "Gemini",
+      "run_date": "2026-06-19",
+      "sources": "Tribe CRM | GoHighLevel | Spotsaas\" (×7 dominant)",
+      "source_count": 3,
+      "collection_note": "all niche"
+    },
+    {
+      "question_id": "11",
+      "question": "cheaper alternatives to HubSpot",
+      "intent": "alternative",
+      "engine": "Perplexity",
+      "run_date": "2026-06-19",
+      "sources": "salesforce.com | emailtooltester.com | blog.salesflare.com | reddit.com | linkedin.com | youtube.com | nethunt.com | zoho.com | zapier.com | encharge.io",
+      "source_count": 10,
+      "collection_note": "**Reddit r/sales + the first LinkedIn post** + competing vendors"
+    },
+    {
+      "question_id": "12",
+      "question": "best free project management tools",
+      "intent": "free-value",
+      "engine": "Perplexity",
+      "run_date": "2026-06-19",
+      "sources": "icagile.com | reddit.com | project-management.com | freedcamp.com | thedigitalprojectmanager.com | zoho.com | proprofsproject.com | youtube.com | paymoapp.com | websiteplanet.com",
+      "source_count": 10,
+      "collection_note": "a mix of Reddit, listicles and vendors"
+    }
+  ]
+}

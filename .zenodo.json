@@ -1,0 +1,46 @@
+{
+  "upload_type": "dataset",
+  "title": "Cross-Engine Citation Study, rounds one and two: sources and brands cited by ChatGPT, Perplexity, Gemini and Google's AI Overview",
+  "version": "1.0.0",
+  "publication_date": "2026-06-19",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "creators": [
+    {
+      "name": "Gunesoglu, Minel",
+      "affiliation": "Is My Brand in AI",
+      "orcid": "0009-0009-4823-6016"
+    }
+  ],
+  "description": "<p>Twelve B2B SaaS buyer questions in four intents (recommendation, comparison, how-to, alternatives) were put by hand to ChatGPT, Perplexity, Gemini and Google's AI Overview, one run per engine-question pair, US English. Every source each engine displayed was recorded in order. Round one, collected and published on 19 June 2026, recorded sources only, over 27 runs: Perplexity on all twelve questions, ChatGPT and Gemini on six, the AI Overview on three. Round two, collected on 6 to 7 August 2026 and published on 9 August 2026, covered every question on every engine, 48 runs, and also recorded the brands each answer recommended, in order, with a type code for every source.</p><p>Main results. On the seven open recommendation and alternatives questions of round two, the four engines agreed on 32 per cent of the brands they recommended and 1 per cent of the sources they cited, measured as Jaccard similarity; every one of the seven had at least one brand all four named, and six of the seven had no source all four cited. Round two logged 322 citations of 193 distinct sources; 151, 78.2 per cent, were cited by one engine only. Vendors' own sites took 48.4 per cent of citations. In round one no domain was cited by ChatGPT, Perplexity and Gemini together on any of the six questions they shared. Of the 80 distinct sources Perplexity cited in June, 42 were still cited seven weeks later, a pooled turnover of 48 per cent, and every question kept at least one source.</p><p>Counting rules. Sources are distinct strings as recorded, with no subdomain collapsing. Brand names get light normalization, listed in full in <code>notes/verify.py</code>. Source counts are what was visible: some engines hide sources behind a \"+N\" badge, and several June Perplexity panels were truncated.</p><p>Contents and limits. The deposit holds data and method notes: the per-run rows of both rounds as CSV and JSON, as published with the article except that seven short collection notes in the June files were translated into English (listed in <code>notes/reproduction-check.md</code>), and <code>notes/verify.py</code>, standard library only, which recounts every figure published for these two rounds from the rows. No analysis code from the study itself is included. One run per engine-question pair, one market, one sector. Round three of the study (October 2026, five engines, 50 other questions) is archived separately with The AI Answer Evidence Index, doi:10.5281/zenodo.23238429.</p>",
+  "keywords": [
+    "AI search",
+    "citation",
+    "generative engine optimization",
+    "ChatGPT",
+    "Perplexity",
+    "Gemini",
+    "Google AI Overviews",
+    "brand recommendation",
+    "B2B SaaS"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://ismybrandinai.com/do-ai-engines-cite-the-same-sources",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://github.com/minelgunesoglu-code/cross-engine-citation-study",
+      "relation": "isDerivedFrom",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "10.5281/zenodo.23238429",
+      "relation": "isContinuedBy",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "The CC BY 4.0 licence applies to the material produced by the author. Domain, publication and site names in the rows identify third parties and are reproduced as the object of study; engine, brand and product names belong to their owners. See LICENCE-NOTES.md in the archive."
+}

@@ -1,0 +1,28 @@
+question_id,question,intent,engine,run_date,sources,source_count,collection_note
+1,best CRM for startups,recommendation,ChatGPT,2026-06-19,techradar.com | tekpon.com | toolcheckr.com | Best CRM Reviews | saasprobe.com | Better Launch | reddit.com,7,"""Best CRM Reviews""/""Better Launch"" = named in the panel; domain not verified"
+1,best CRM for startups,recommendation,Gemini,2026-06-19,UpliftGTM | Lightfield | Dalil AI | ZoFlowX,4,"+N hidden; **ALL unknown/niche**, none mainstream"
+1,best CRM for startups,recommendation,Google AI Overview,2026-06-19,reddit.com | salesforce.com | techradar.com | zoho.com | monday.com | quickbase.com | seedtable.com | podium.com | baserow.io,9,
+1,best CRM for startups,recommendation,Perplexity,2026-06-19,crm.org | tech.co | zendesk.com | techradar.com | hubspot.com | digitalocean.com | salesflare.com | blog.hubspot.com,8,"+ zendesk regional duplicates; ""more"" hidden"
+2,best project management software for small teams,recommendation,ChatGPT,2026-06-19,TaskPicked | PickrTech Insights | TechRadar | Prodify Flow | Nest Digital Studio | pmworld360.com | apmic.org,7,mostly niche/unknown blogs
+2,best project management software for small teams,recommendation,Gemini,2026-06-19,"Fluid PPM | Aha! software"" (aha.io)",2,only 2 sources; Gemini cites sparsely
+2,best project management software for small teams,recommendation,Perplexity,2026-06-19,niftypm.com | project-management.com | zapier.com | plaky.com | technologyadvice.com | storychief.io | cloudwards.net | larksuite.com | thedigitalprojectmanager.com | pcmag.com,10,+ more hidden
+3,best email marketing platform,recommendation,Perplexity,2026-06-19,emailvendorselection.com | sender.net | cybernews.com | semrush.com | mailtrap.io | techradar.com | pipeline.zoominfo.com | brevo.com | blog.hubspot.com,9,+ more hidden
+4,best AI writing tools,recommendation,Perplexity,2026-06-19,visme.co | wpastra.com | clickup.com | eweek.com | writesonic.com | databox.com | jotform.com | learn.g2.com | kontent.ai | forbes.com,10,+ more hidden
+5,HubSpot vs Salesforce,comparison,ChatGPT,2026-06-19,forbes.com | Ralivi | reddit.com | Sasanova | techradar.com,5,web search on; +N in the panel; Ralivi/Sasanova niche
+5,HubSpot vs Salesforce,comparison,Gemini,2026-06-19,community.hubspot.com | zapier.com,2,2 sources
+5,HubSpot vs Salesforce,comparison,Google AI Overview,2026-06-19,"Zapier +3"" + HubSpot",1,
+5,HubSpot vs Salesforce,comparison,Perplexity,2026-06-19,hubspot.com | youtube.com | zapier.com | reddit.com | crmswitch.com | forbes.com | monday.com | avoma.com,8,youtube and hubspot twice each; **first Reddit + YouTube**
+6,Notion vs Asana,comparison,Perplexity,2026-06-19,youtube.com | omtera.com | thedigitalprojectmanager.com | plaky.com | productivetemply.com | monday.com | appvizer.com | thebusinessdive.com,8,"**youtube.com ×3**, one in Japanese; no Reddit"
+7,Mailchimp vs Klaviyo,comparison,ChatGPT,2026-06-19,techradar.com | forbes.com | reddit.com | technologyadvice.com,4,web search on; +N; all major publishers
+7,Mailchimp vs Klaviyo,comparison,Gemini,2026-06-19,RichClicks,1,ONLY 1 source; niche
+7,Mailchimp vs Klaviyo,comparison,Perplexity,2026-06-19,klaviyo.com | moosend.com | emailtooltester.com | zapier.com | youtube.com | sendpulse.com | mailchimp.com | technologyadvice.com | enchantagency.com | shopify.com,10,**vendor self-citation:** klaviyo.com + mailchimp.com
+8,how to choose a CRM,how-to,Perplexity,2026-06-19,sonary.com | community.hubspot.com | uschamber.com | creatio.com | zendesk.com | superoffice.co.uk | youtube.com | salesforce.com | pcmag.com | nutshell.com,10,vendor-heavy + the community.hubspot.com forum
+9,how to reduce customer churn,how-to,ChatGPT,2026-06-19,RetentionCheck | Deeto | arxiv.org | superoffice.com | reddit.com | Churn Buster | Guideflow,7,niche retention blogs + **arXiv academic**; web search on
+9,how to reduce customer churn,how-to,Gemini,2026-06-19,,0,answered entirely from training data; no sources shown
+9,how to reduce customer churn,how-to,Google AI Overview,2026-06-19,"SurveyMonkey +2"" (+ probably SuperOffice)",1,
+9,how to reduce customer churn,how-to,Perplexity,2026-06-19,stripe.com | nextiva.com | optimove.com | blog.hubspot.com | contentsquare.com | digitalocean.com | userpilot.com | recurly.com | chargebee.com | ttec.com,10,all SaaS company blogs; NO Reddit or YouTube
+10,Salesforce alternatives,alternative,Perplexity,2026-06-19,salesforce.com | reddit.com | creatio.com | teamgate.com | forbes.com | persistiq.com | zendesk.com | gestisoft.com | zeeg.me | jotform.com,10,**Reddit** r/CRM + salesforce.com's own page + small vendor listicles
+11,cheaper alternatives to HubSpot,alternative,ChatGPT,2026-06-19,StackFYI | Automation Atlas | growthtechspotlight.com | chatim.app | Semstage | techradar.com | reddit.com,7,mostly niche + TechRadar/Reddit; web search on
+11,cheaper alternatives to HubSpot,alternative,Gemini,2026-06-19,"Tribe CRM | GoHighLevel | Spotsaas"" (×7 dominant)",3,all niche
+11,cheaper alternatives to HubSpot,alternative,Perplexity,2026-06-19,salesforce.com | emailtooltester.com | blog.salesflare.com | reddit.com | linkedin.com | youtube.com | nethunt.com | zoho.com | zapier.com | encharge.io,10,**Reddit r/sales + the first LinkedIn post** + competing vendors
+12,best free project management tools,free-value,Perplexity,2026-06-19,icagile.com | reddit.com | project-management.com | freedcamp.com | thedigitalprojectmanager.com | zoho.com | proprofsproject.com | youtube.com | paymoapp.com | websiteplanet.com,10,a mix of Reddit, listicles and vendors
